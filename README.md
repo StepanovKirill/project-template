@@ -1,3 +1,11 @@
+# project-template
+Template project React app create with:
+- [x] cra
+- [x] typescript
+- [ ] eslint
+- [ ] husky
+- [ ] jest (rtl)
+- [ ] gha
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
